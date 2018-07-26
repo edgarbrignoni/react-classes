@@ -28,7 +28,7 @@ setInterval(function(){
                 <h1>Different Components as Classes</h1>
                 <hr />
                 <Xcomponent
-                    city = "Miami"
+                    city = "Kendall"
                 />
                 <hr />
                 <SecondsCounter
