@@ -62,7 +62,7 @@
 /******/ 	}
 /******/
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "a75ff56b67e70a3381ae"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "e2ab3db6fac17317a303"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -36977,7 +36977,7 @@ setInterval(function () {
             ),
             _react2.default.createElement('hr', null),
             _react2.default.createElement(_Xcomponent2.default, {
-                city: 'Kendall'
+                city: 'Miami'
             }),
             _react2.default.createElement('hr', null),
             _react2.default.createElement(_SecondsCounter2.default, {
