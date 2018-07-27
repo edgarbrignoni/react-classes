@@ -10,9 +10,9 @@ import '../styles/index.scss';
 
 //import your own components
 // import {Home} from './component/home.jsx';
+// import SimpleCounter from './components/simple-counter.jsx';
 import Xcomponent from './components/Xcomponent.jsx';
 import SecondsCounter from './components/SecondsCounter.jsx';
-// import SimpleCounter from './components/simple-counter.jsx';
 import Counter from './components/Counter.jsx';
 
 //render your react application
@@ -28,7 +28,7 @@ setInterval(function(){
                 <h1>Different Components as Classes</h1>
                 <hr />
                 <Xcomponent
-                    city = "Miami"
+                    city = "Kendall"
                 />
                 <hr />
                 <SecondsCounter

@@ -62,7 +62,7 @@
 /******/ 	}
 /******/
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "611baa912596f5f66468"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "fc1380657c2a15857e36"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -36949,11 +36949,10 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 //include your index.scss file into the bundle
 var seconds = 0;
-// import SimpleCounter from './components/simple-counter.jsx';
-
 
 //import your own components
 // import {Home} from './component/home.jsx';
+// import SimpleCounter from './components/simple-counter.jsx';
 
 
 //include bootstrap npm library into the bundle
